@@ -29,4 +29,9 @@ class PaypalSpringBootWebappApplicationTests {
 		System.out.println("************************* Test case 5 passed ***********************");
 	}
 
+	@Test
+	void test6() {
+		System.out.println("************************* Test case 6 passed ***********************");
+	}
+
 }
